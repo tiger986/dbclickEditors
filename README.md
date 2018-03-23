@@ -3,7 +3,7 @@
 ```html
 <div class="box">		
     <div class="d1" id = "con_father">
-        <h2 id = "con">默认内容</h2>
+        <h2 id = "con">Default content</h2>
     </div>
 </div>
 ```
